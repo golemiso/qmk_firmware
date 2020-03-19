@@ -92,4 +92,7 @@ Vagrant.configure(2) do |config|
      make planck/rev4:default
 
   EOT
+
+  config.vm.synced_folder ".", "/vagrant",disabled: true
+
 end
