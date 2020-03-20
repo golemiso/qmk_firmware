@@ -1,1 +1,1 @@
-# The default keymap for manta60
+# The default keymap for golemiso
